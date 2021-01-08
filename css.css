@@ -6,33 +6,16 @@
   grid-template-rows: 1fr 1fr 1fr;
   gap: 0px 0px;
   grid-template-areas:
-    "Content Content Content Menu"
+    "Header Header Header Menu"
     "Content Content Content Menu"
     "Footer Footer Footer Footer";
 }
 
-.Menu {
-  background-color: #6B9CBD;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr;
-  gap: 0px 0px;
-  grid-template-areas:
-    ". . ."
-    ". . .";
-  grid-area: Menu;
-}
+.Footer { grid-area: Footer; background-color: #000000;}
 
-.Content {
-  background-color: E1EAF1;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
-  gap: 0px 0px;
-  grid-template-areas:
-    ". . ."
-    ". . .";
-  grid-area: Content;
-}
+.Menu { grid-area: Menu;  background-color: #6B9CBD;}
 
-.Footer { grid-area: Footer; }
+.Header { grid-area: Header;background-color: #3783AC; }
+
+.Content { grid-area: Content;   background-color: #E1EAF1;}
+
