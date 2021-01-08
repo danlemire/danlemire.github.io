@@ -11,9 +11,9 @@
     "Footer Footer Footer Footer";
 }
 
-.Footer { grid-area: Footer; background-color: #000000;}
+.Footer { grid-area: Footer; background-color: #FFF;}
 
-.Menu { grid-area: Menu;  background-color: #6B9CBD;}
+.Menu { grid-area: Menu;  background-color: #498BB2;}
 
 .Header { grid-area: Header;background-color: #3783AC; }
 
