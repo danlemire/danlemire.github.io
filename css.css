@@ -13,9 +13,9 @@
 
 .Footer { grid-area: Footer; background-color: #FFF;}
 
-.Menu { grid-area: Menu;  background-color: #498BB2;}
+.Menu { grid-area: Menu;  background-color: #42AECD;}
 
-.Header { grid-area: Header;background-color: #3783AC; }
+.Header { grid-area: Header;background-color: #498BB2;}
 
 .Content { grid-area: Content;   background-color: #E1EAF1;}
 
