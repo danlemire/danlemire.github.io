@@ -1,13 +1,13 @@
 {
     "datasource" : "https://raw.githubusercontent.com/danlemire/magtagverse/source-data-config/webverses.json",
-    "mode" : "local|remote",
-    "readmode" : "sequential|random",
+    "mode" : "remote",
+    "readmode" : "sequential",
     "sleep" : "0.1",
     "deepsleep" : "3600*24",
-    "reloadmode" : "reset|continue",
+    "reloadmode" : "reset",
     "neopixels_disable" : false,
     "buttoncolors" : "((255, 255, 0), (255, 0, 0), (0, 0, 255), (0, 255, 0))",
     "buttontones"  : "(1047, 1318, 1568, 2093)",
     "plainfont" : false,
-    "backgroundFile" : ""
+    "backgroundfile" : ""
 }
