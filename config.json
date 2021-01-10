@@ -1,5 +1,5 @@
 {
-    "datasource" : "https://github.danlemire.com/webverses.json",
+    "datasource" : "https://danlemire.github.io/webverses.json",
     "mode" : "remote",
     "readmode" : "sequential",
     "sleep" : "0.1",
