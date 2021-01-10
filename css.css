@@ -15,7 +15,7 @@
 
 .Menu { grid-area: Menu;  background-color: #42AECD;}
 
-.Header { grid-area: Header;background-color: #498BB2;}
+.Header { grid-area: Header;background-color: #498BB2; background: blue-chip.jpg}
 
 .Content { grid-area: Content;   background-color: #E1EAF1;}
 
