@@ -1,5 +1,5 @@
 {
-    "datasource" : ""https://raw.githubusercontent.com/danlemire/magtagverse/source-data-config/webverses.json",
+    "datasource" : "https://raw.githubusercontent.com/danlemire/magtagverse/source-data-config/webverses.json",
     "mode" : "local|remote",
     "readmode" : "sequential|random",
     "sleep" : "0.1",
